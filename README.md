@@ -1,2 +1,3 @@
-# emacs-stuff
-Useful bits and pieces for Emacs
+# Emacs Stuff
+
+Useful bits and pieces for Emacs.
