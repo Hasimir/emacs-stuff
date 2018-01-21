@@ -1,0 +1,4 @@
+* Emacs Initialisation Files
+
+Contains snippets or useful bits and pieces, some of which may be
+discussed or described elsewhere.
